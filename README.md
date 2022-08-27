@@ -1,6 +1,6 @@
 # Car-Haurdle-Game-
 CAR HIRDLE GAME WITH THE HELP OF OPP CONCEPTS 
-There are five classes in this project 
+THERE ARE FIVE CLASSES N THE PROJECT                                                      
 CAR 
 SCREEN
 HURDLE
